@@ -73,4 +73,4 @@ The operator might plan to run many Liberty instances in a shared OS or containe
 
 What should you take away from this? Don’t assume you need to tune the Liberty default executor settings. We try really, really hard to make the defaults work for as many types of workloads as possible. Yes, there will be some edge cases where you may need to adjust `coreThreads` and `maxThreads`, but at least try the defaults first.
 
-Adapted and updated from an original article by Gary Picher[https://github.com/garypicher].
+_Adapted and updated from an original article by https://github.com/garypicher[Gary Picher]._
