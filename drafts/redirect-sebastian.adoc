@@ -1,0 +1,13 @@
+---
+layout: post
+title: Monitoring resiliency behavior with MicroProfile
+categories: blog
+author_picture: https://avatars1.githubusercontent.com/u/6815170
+seo-title: Monitoring resiliency behavior with MicroProfile - OpenLiberty.io.
+seo-description: A video on how to get resiliency metrics from microservices using MicroProfile Fault Tolerance 1.1. MicroProfile Fault Tolerance provides a set of annotations to collect metrics that enable monitoring of the resiliency of your microservices. In the video, Sebastian demonstrates how to use the metrics and visualize them with Prometheus and a Grafana dashboard.
+blog_description: "A video on how to get resiliency metrics from microservices using MicroProfile Fault Tolerance 1.1. MicroProfile Fault Tolerance provides a set of annotations to collect metrics that enable monitoring of the resiliency of your microservices. In the video, Sebastian demonstrates how to use the metrics and visualize them with Prometheus and a Grafana dashboard."
+redirect_to: https://blog.sebastian-daschner.com/entries/microprofile-fault-tolerance-metrics
+---
+= Monitoring resiliency behavior with MicroProfile
+Sebastian Daschner <https://github.com/sdaschner/>
+
