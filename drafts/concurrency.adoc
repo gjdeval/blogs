@@ -13,7 +13,7 @@ Nathan Rauh <https://github.com/njr-11>
 
 Concurrency is being able to run multiple tasks in parallel, which can increase the efficiency of an application. Concurrency in Java EE enables you to run tasks from multiple applications at once, sharing thread pools and task scheduling.
 
-LC NOTE: Can you give a simple but realistic example of doing this?
+LC NOTE: Can you give a simple but realistic example of doing each of these?
 
 == Concurrency in Java SE and Java EE
 
